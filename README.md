@@ -25,6 +25,10 @@ artists.csv: Artist-level metadata including popularity and followers
 
 Both the dataset are too large so not able to provide the file here, so you can find it on kaggle
 
+artist: https://www.kaggle.com/datasets/nimishasen27/spotify-dataset?select=artists.csv
+
+track : https://www.kaggle.com/datasets/nimishasen27/spotify-dataset?select=tracks.csv
+
 ➡️ These files were merged using the artist ID to create a unified dataset for analysis.
 
 ### 🛠️ Technologies Used
